@@ -1,0 +1,11 @@
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    color: black;
+}
+
+p {
+    font-size: 35px;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
